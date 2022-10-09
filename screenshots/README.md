@@ -1,1 +1,0 @@
-I den här mappen sparar du skärmdumpar från respektive webbläsare, som visar att sajten fungerar och ser bra ut i de olika webbläsarna.
